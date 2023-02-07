@@ -1,0 +1,137 @@
+\documentclass[a4paper,12pt,oneside,article]{article}
+
+\usepackage[utf8]{inputenc}
+          
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{icomma}
+\usepackage{amsmath, amssymb, bm, mathtools, mathdots}
+\usepackage{graphicx}
+\usepackage{graphicx}
+\usepackage{caption}
+\graphicspath{ {./image/} }
+
+\usepackage[english]{babel}
+\usepackage{ragged2e}
+\usepackage{blindtext}
+\usepackage{csvsimple}
+
+
+\usepackage{csvsimple}
+\graphicspath{ {./images/} }
+
+
+\title{DTL Assignment 1 Table of Content, Sections, Sub-Section, Paragraphs}
+\author{Shubhankar Gawari 142203007} 
+
+\begin{document}
+
+\maketitle
+\newpage
+
+
+\hrule
+
+\tableofcontents 
+
+
+
+\newpage
+
+\section{Introduction to Latex}
+Section and Paragraphs 
+in Latex
+
+\newline
+
+\hrule
+	
+\subsection{MS Word:}
+\paragraph{MS Word:}
+MS Word usually refers to Microsoft Word. Generally, it is used as an umbrella term for all word processors that directly show you what you will get as an end result (as opposed to first having to process the file). This approach is more intuitive, but it makes editing large projects very complicated. Everyone knows Word. However, “knowing” Word mostly refers to the ease of use, as it is a “what you see is what you get” (WYSIWYG) text editor. But if I asked how, using Word, to refer to another document’s text block and add that as a citation in a footnote, most people would have to look on the Internet to find out how that could be done. While most of the functionality is available through icons, you still need to know where to look when something is not a standard command like those used in formatting, making lists, or choosing fonts.
+
+\subsection{Latex: }
+\paragraph{Latex:}
+
+ LaTeX is a typesetting system that works more like a compiler than a word processor. While initially complicated, LaTeX allows better management of larger projects like theses or books by splitting the document into sections: style, references, and text. In LaTeX (pronounced LAH-tekh or LAY-tekh), you instead create a text document which is then translated into an actual formatted document (your book). Formatting is done through commands you enter as text into the document. To write a LaTeX document, you never have to touch your mouse, as you can enter everything by keystrokes alone.
+
+\newpage
+
+\section{Assignment 1: Table of Content, Section, Subsection and Paragraphs }
+
+\hrule
+
+
+\vspace{1cm}
+\subsection{Tabular Data Enter:}
+
+\begin{center}
+\begin{tabular}{ |c|c|c|c| } 
+
+\hline
+
+\textbf{Sr no.   }&
+\textbf{Roll no.   }&
+\textbf{Marks }&
+\textbf{Grades  }\\
+
+
+ \hline
+ 1  &  101  &  86 & B \\
+2  &  102  & 95 & A+ \\
+3  &  103  &  93  & A+ \\
+4  &  104  &  90  & A \\
+
+ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+\newpage
+
+ \newpage
+ 
+ 
+ \section{Include table from CSV:
+ DSY Admitted students}
+ 
+\hrule 
+ 
+ \hrule
+ 
+ \newline
+ 
+				\begin{Center}
+					
+			
+				\begin{tabular}{|c|c|c|}%
+					\hline
+					\bfseries Name & \bfseries Age & \bfseries College
+					\csvreader[head to column names]{Book1.csv}{}
+					{\\\hline\csvcoli&\csvcolii&\csvcoliii}\\
+					\hline
+				\end{tabular}	
+				\end{Center}		
+				
+\newpage
+
+\section{Image Insert in Latex:}
+
+\hrulefill
+
+\begin{center}
+  \includegraphics{pngimage.png}
+  \caption{ Sample Image.}
+  \label{fig:my_label}
+  
+\end{center}
+\end{figure}
+\end{caption}
+
+
+ 
+
+\end{document}

@@ -1,0 +1,764 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.5)  18 JAN 2023 15:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./DTL Assignment 5 Research Paper.tex"
+(DTL Assignment 5 Research Paper.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmpcountC=\count187
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@IEEEsubequation=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count193
+\c@table=\count194
+\@IEEEeqnnumcols=\count195
+\@IEEEeqncolcnt=\count196
+\@IEEEsubeqnnumrollback=\count197
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count198
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count199
+\@IEEEtranrubishbin=\box52
+) (C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen162
+\stockheight=\dimen163
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen166
+\captionmargin=\dimen167
+\caption@leftmargin=\dimen168
+\caption@rightmargin=\dimen169
+\caption@width=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi  on input line 1176.
+)
+\c@KVtest=\count266
+\sf@farskip=\skip50
+\sf@captopadj=\dimen174
+\sf@capskip=\skip51
+\sf@nearskip=\skip52
+\c@subfigure=\count267
+\c@subfigure@save=\count268
+\c@lofdepth=\count269
+\c@subtable=\count270
+\c@subtable@save=\count271
+\c@lotdepth=\count272
+\sf@top=\skip53
+\sf@bottom=\skip54
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/sttools\flushend.sty
+Package: flushend 2021/10/04 v4.0 Balancing columns in twocolumn mode
+\flushend@@lastskip@a=\skip55
+\flushend@@lastskip@b=\skip56
+\flushend@@lastnode=\count273
+\var@@loop@iter=\count274
+\var@@temp@spread=\dimen175
+\var@@temp@a=\dimen176
+\var@@temp@loop=\dimen177
+\flushend@@page@rule=\dimen178
+\flushend@@varbox@lastpage=\box53
+\flushend@@varbox@a=\box54
+\flushend@@varbox@c=\box55
+\flushend@@tempbox@a=\box56
+\flushend@@tempbox@c=\box57
+\flushend@@floatbox=\box58
+\@viper=\box59
+\hold@viper=\box60
+\atColsBreak=\toks18
+\atColsEnd=\toks19
+\oldbreak@skip=\dimen179
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box61
+\extrarowheight=\dimen181
+\NC@list=\toks20
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box62
+)
+\TX@col@width=\dimen182
+\TX@old@table=\dimen183
+\TX@old@col=\dimen184
+\TX@target=\dimen185
+\TX@delta=\dimen186
+\TX@cols=\count275
+\TX@ftn=\toks21
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen187
+\lightrulewidth=\dimen188
+\cmidrulewidth=\dimen189
+\belowrulesep=\dimen190
+\belowbottomsep=\dimen191
+\aboverulesep=\dimen192
+\abovetopsep=\dimen193
+\cmidrulesep=\dimen194
+\cmidrulekern=\dimen195
+\defaultaddspace=\dimen196
+\@cmidla=\count276
+\@cmidlb=\count277
+\@aboverulesep=\dimen197
+\@belowrulesep=\dimen198
+\@thisruleclass=\count278
+\@lastruleclass=\count279
+\@thisrulewidth=\dimen199
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/lipsum\lipsum.sty
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/l3packages/l3keys2e\l3keys2e.s
+ty (C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box63
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count281
+\l__lipsum_a_int=\count282
+\l__lipsum_b_int=\count283
+ (C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/lipsum\lipsum.ltd.tex))
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/csvsimple\csvsimple.sty
+Package: csvsimple 2022/09/20 v2.3.2 LaTeX CSV file processing
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/csvsimple\csvsimple-legacy.sty
+Package: csvsimple-legacy 2022/09/20 version 2.3.2 LaTeX2e CSV file processing
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/generic/pgf/utilities\pgfutil-common
+.tex
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen256
+\pgfutil@tempdimb=\dimen257
+
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/generic/pgf/utilities\pgfutil-common
+-lists.tex))
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/generic/pgf/utilities\pgfutil-latex.
+def
+\pgfutil@abb=\box64
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/generic/pgf/utilities\pgfrcs.code.te
+x (C:\Users\shubh\OneDrive\Desktop\LATEX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/generic/pgf/utilities\pgfkeys.code.t
+ex
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
+
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/generic/pgf/utilities\pgfkeysfiltere
+d.code.tex
+\pgfkeys@tmptoks=\toks25
+))) (C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count284
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read2
+\c@csvinputline=\count285
+\c@csvrow=\count286
+\c@csvcol=\count287
+\csv@out=\write3
+)
+(DTL Assignment 5 Research Paper.aux)
+\openout1 = `"DTL Assignment 5 Research Paper.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+-- Lines per column: 56 (exact).
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen258
+\scratchbox=\box65
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen259
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+
+! LaTeX Error: Environment Summary -  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \begin{Summary - }
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.67 \bold
+           {Summary}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{abstract}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \end{abstract}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/shubh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+]
+<im1.png, id=7, 803.0pt x 305.14pt>
+File: im1.png Graphic file (type png)
+<use im1.png>
+Package pdftex.def Info: im1.png  used on input line 184.
+(pdftex.def)             Requested size: 180.67499pt x 68.65353pt.
+<im2.png, id=9, 834.86906pt x 541.27219pt>
+File: im2.png Graphic file (type png)
+<use im2.png>
+Package pdftex.def Info: im2.png  used on input line 246.
+(pdftex.def)             Requested size: 198.7425pt x 128.8508pt.
+ [2 <./im1.png> <./im2.png>]
+<im3.png, id=15, 179.16937pt x 93.34875pt>
+File: im3.png Graphic file (type png)
+<use im3.png>
+Package pdftex.def Info: im3.png  used on input line 287.
+(pdftex.def)             Requested size: 252.94499pt x 131.79552pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 287--287
+ [][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 308.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 308.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 30
+8.
+(C:\Users\shubh\OneDrive\Desktop\LATEX\tex/latex/wasysym\uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+Runaway argument?
+{table 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.328 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<im4.png, id=16, 642.4pt x 301.125pt>
+File: im4.png Graphic file (type png)
+<use im4.png>
+Package pdftex.def Info: im4.png  used on input line 343.
+(pdftex.def)             Requested size: 252.94499pt x 118.56859pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 343--343
+ [][] 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379  \newline
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment Center undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.381 				\begin{Center}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{Center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.391 				\end{Center}
+                      	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3 <./im3.png> <./im4.png (PNG copy)>] [4]
+<im5.png, id=25, 253.94875pt x 199.74625pt>
+File: im5.png Graphic file (type png)
+<use im5.png>
+Package pdftex.def Info: im5.png  used on input line 526.
+(pdftex.def)             Requested size: 252.94499pt x 198.96245pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 526--526
+ [][] 
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 559--560
+[]\OT1/ptm/m/n/8 Shubhankar Gawari.,Rucha Kardile.,Stock Price Pre-dic-tions us
+-ing
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 561--562
+[]\OT1/ptm/m/n/8 Shubhankar Gawari.,Rucha Kardile.,Stock Price Pre-dic-tions us
+-ing
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+[leftcolumn badness]: 1000000 on 237.20477pt
+[rightcolumn badness]: 1000000 on 237.20477pt
+- LAST -
+Extra skip:216.1831pt
+Left:665.7329pt/0.0pt
+Right:449.54979pt/0.0pt
+Split: 660.26027pt
+Output:660.26027pt
+Pageshrink: 10.35008pt
+Pagestretch: 44.79977pt
+@colht:672.0pt
+FLUSHEND [output]: 660.26027pt
+FLUSHEND [leftcolumn badness]: 95
+FUSHEND [rightcolumn badness]: 10000
+[5 <./im5.png>] (DTL Assignment 5 Research Paper.aux) ) 
+Here is how much of TeX's memory you used:
+ 6013 strings out of 475385
+ 120609 string characters out of 2780191
+ 561701 words of memory out of 3000000
+ 27319 multiletter control sequences out of 15000+600000
+ 498188 words of font info for 78 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 72i,8n,77p,303b,254s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/shubh/OneDrive
+/Desktop/LATEX/fonts/enc/dvips/base/8r.enc}<C:/Users/shubh/OneDrive/Desktop/LAT
+EX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/shubh/OneDrive/Desktop/LATEX/font
+s/type1/urw/times/utmr8a.pfb><C:/Users/shubh/OneDrive/Desktop/LATEX/fonts/type1
+/urw/times/utmri8a.pfb>
+Output written on "DTL Assignment 5 Research Paper.pdf" (5 pages, 193610 bytes)
+.
+PDF statistics:
+ 44 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

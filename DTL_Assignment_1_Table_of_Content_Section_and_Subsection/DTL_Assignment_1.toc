@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction to Latex}{3}{}%
+\contentsline {subsection}{\numberline {1.1}MS Word:}{3}{}%
+\contentsline {paragraph}{MS Word:}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Latex: }{3}{}%
+\contentsline {paragraph}{Latex:}{3}{}%
+\contentsline {section}{\numberline {2}Assignment 1: Table of Content, Section, Subsection and Paragraphs }{4}{}%
+\contentsline {subsection}{\numberline {2.1}Tabular Data Enter:}{4}{}%
+\contentsline {section}{\numberline {3}Include table from CSV: DSY Admitted students}{5}{}%
+\contentsline {section}{\numberline {4}Image Insert in Latex:}{6}{}%

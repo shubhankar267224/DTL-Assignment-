@@ -1,0 +1,119 @@
+\documentclass[a4paper,12pt,oneside,article]{article}
+
+\usepackage[utf8]{inputenc}
+          
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{icomma}
+\usepackage{amsmath, amssymb, bm, mathtools, mathdots}
+\usepackage{graphicx}
+\usepackage{graphicx}
+\usepackage{caption}
+\graphicspath{ {./image/} }
+
+\usepackage[english]{babel}
+\usepackage{ragged2e}
+\usepackage{blindtext}
+\usepackage{csvsimple}
+
+
+\usepackage{csvsimple}
+\graphicspath{ {./images/} }
+
+
+\title{DTL Assignment 3 Table and Image}
+\author{Shubhankar Gawari 142203007} 
+
+\begin{document}
+
+\maketitle
+\newpage
+
+
+\hrule
+
+\tableofcontents 
+
+
+
+\newpage
+
+\section{Assignment 3:  Tabular Data Enter, Include Tablr from CSV File and Image Insert}
+
+\hrule
+
+
+\vspace{1cm}
+\subsection{Tabular Data Enter:}
+
+\begin{center}
+\begin{tabular}{ |c|c|c|c| } 
+
+\hline
+
+\textbf{Sr no.   }&
+\textbf{Roll no.   }&
+\textbf{Marks }&
+\textbf{Grades  }\\
+
+
+ \hline
+ 1  &  101  &  86 & B \\
+2  &  102  & 95 & A+ \\
+3  &  103  &  93  & A+ \\
+4  &  104  &  90  & A \\
+
+ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+\newpage
+
+ \newpage
+ 
+ 
+ \section{Include table from CSV:
+ DSY Admitted students}
+ 
+\hrule 
+ 
+ \hrule
+ 
+ \newline
+ 
+				\begin{Center}
+					
+			
+				\begin{tabular}{|c|c|c|}%
+					\hline
+					\bfseries Name & \bfseries Age & \bfseries College
+					\csvreader[head to column names]{Book1.csv}{}
+					{\\\hline\csvcoli&\csvcolii&\csvcoliii}\\
+					\hline
+				\end{tabular}	
+				\end{Center}		
+				
+\newpage
+
+\section{Image Insert in Latex:}
+
+\hrulefill
+
+\begin{center}
+  \includegraphics{pngimage.png}
+  \caption{ Sample Image.}
+  \label{fig:my_label}
+  
+\end{center}
+\end{figure}
+\end{caption}
+
+
+ 
+
+\end{document}
+
